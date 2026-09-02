@@ -1,4 +1,4 @@
-# Muneeza Tahir    Jehan Bacha  – Graphic Design Portfolio
+# ABEERA MASOUD    Jehan Bacha  – Graphic Design Portfolio
 
 Welcome to my personal portfolio website! This site showcases a curated collection of my work as a **graphic designer**, including past projects, creative explorations, and professional highlights. It serves as a visual résumé and creative space for anyone interested in my design journey.
 
@@ -73,7 +73,7 @@ If you have any questions or suggestions or would like to get in touch, feel fre
 - **Behance:** [My Behance Portfolio](https://www.behance.net/bhavya-parmar)
 
 Thank you for visiting my portfolio. I hope you enjoy exploring my work!
-# Muneeza Tahir   -designer
+# ABEERA MASOUD   -designer
 # faizan-designer-portfolio
 # mahnoor-designer
 # hoor-ul-eman

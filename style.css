@@ -789,3 +789,8 @@ footer p {
 #all-projects .title{
     font-weight: 600;
 }
+.social-icons a:hover {
+    background-color: #d4af37;
+    color: #000 !important;
+    transform: translateY(-3px);
+}
